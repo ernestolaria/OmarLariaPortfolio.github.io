@@ -156,6 +156,10 @@ section .title{
 .home .max-width .row{
   margin-right: 0;
 }
+.home .home-content{
+    padding-top: 200px;
+    padding-bottom: 200px;
+} 
 .home .home-content .text-1{
     font-size: 27px;
 }
