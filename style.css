@@ -142,7 +142,7 @@ section .title{
 /* home section styling */
 .home{
     display: flex;
-    background-image: url(/image.jpg);
+    background-image: url(../image.jpg);
     background-attachment: fixed;
     color: #fff;
     min-height: 500px;
