@@ -238,7 +238,7 @@ section .title{
 /* projects section styling */
 .projects{
     color:#fff;
-    background-image: url(/image.jpg);
+    background-image: url(https://github.com/ernestolaria/OmarLariaPortfolio.github.io/blob/main/image.jpg?raw=true);
     background-attachment: fixed;
 }
 
